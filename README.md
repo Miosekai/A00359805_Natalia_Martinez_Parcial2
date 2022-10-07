@@ -1,7 +1,7 @@
 # A00359805_Natalia_Martinez_Parcial2
 
 
-## const int Leds[] = {2,3,4,5,6};
+const int Leds[] = {2,3,4,5,6};
 const int button = 7;
 int state = 0;
 bool dir = false;
