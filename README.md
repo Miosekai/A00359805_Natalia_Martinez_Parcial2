@@ -41,7 +41,6 @@ void loop()
            
   onLeds();
   Leftbutton();
-  
   analogWrite(pinBuzzer, salida);
 }
 
